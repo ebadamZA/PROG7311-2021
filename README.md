@@ -2,7 +2,7 @@
 ## LAC 1
 In this LAC, you will get up to speed with your VM and begin to push to github. It is imperative that you do this in Ubuntu using the command prompt so you learn these commands.
 
-![Linux Meme](https://i.pinimg.com/736x/84/3b/2b/843b2ba83fed85212f1e027db72bd7ef.jpg)
+![Linux Meme](https://i.pinimg.com/736x/84/3b/2b/843b2ba83fed85212f1e027db72bd7ef.jpg | width = 100)
 
 1. Install Ubuntu on Hyper-V / Virtual Box
 2. Install dotnet SDK
