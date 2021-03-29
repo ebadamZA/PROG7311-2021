@@ -26,6 +26,18 @@ Good luck
 
 ---
 
+## LAC 3
+In this LAC, we will explore the Memento Design Pattern - [read more](https://refactoring.guru/design-patterns/memento)
+
+1. Build a simple text editor application in C#.
+2. Allow your user to undo any recent changes.
+3. Also, allow the user to view a timestamped log of any recent changes.
+4. Push your repo to GitHub and drop the link in Teams.
+
+Good luck
+
+---
+
 ## Why do we use Linux?
 
 ![Linux Meme](https://i.pinimg.com/736x/84/3b/2b/843b2ba83fed85212f1e027db72bd7ef.jpg)
