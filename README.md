@@ -27,7 +27,7 @@ Good luck
 ---
 
 ## LAC 3
-In this LAC, we will explore the Memento Design Pattern - [read more](https://refactoring.guru/design-patterns/memento)
+In this LAC, we will explore a suitable behavioural design pattern to solve the problem below - [read more](https://refactoring.guru/design-patterns/behavioral-patterns)
 
 1. Build a simple text editor application in C#.
 2. Allow your user to undo any recent changes.
