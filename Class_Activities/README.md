@@ -11,7 +11,3 @@ In this activity, you will be generating a web app which allows users to generat
 6. Push your app to a GitHub repo so you can work from anywhere.
 
 PS: Drop any links you find useful onto the MS Teams channel.
-
----
-
-![Linux Meme](https://i.pinimg.com/736x/84/3b/2b/843b2ba83fed85212f1e027db72bd7ef.jpg)
