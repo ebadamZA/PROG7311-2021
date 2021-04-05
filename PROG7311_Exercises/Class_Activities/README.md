@@ -1,6 +1,6 @@
 # PROG7311
-## Meme Generator
-As we learn about provisioning applications, we need to step intto
+## Meme Generator - API client
+As we learn about provisioning applications to enterprise users, we need to step into architecture patterns (not entirely new to you) with a look at API's. Before we build an API, let's use an existing one to build an app.
 
 In this activity, you will be generating a web app which allows users to generate their own memes. Use VS Code on your Ubuntu VM
 1. Go to the imgflip API documentation and explore the features offered by the API.
