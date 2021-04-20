@@ -38,6 +38,19 @@ Good luck
 
 ---
 
+## LAC 4
+In this LAC, we will begin to build a dotnet core webapi [read more](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio-code)
+
+1. Read the tutorial at the link above.
+2. In VS Code, build a simple webapi that stores and serves up  hotel details (name, website, location, rating, imageurl).
+3. Allow the user to receive a list of all hotels or search for a hotel by name by using HTTP GET requests
+4. Allow the user to add a hotel using an HTTP POST request.
+5. For now, the data must be stored in a static collection inside the application and persistence isn't needed
+
+Good luck
+
+---
+
 ## Why do we use Linux?
 
 ![Linux Meme](https://i.pinimg.com/736x/84/3b/2b/843b2ba83fed85212f1e027db72bd7ef.jpg)
